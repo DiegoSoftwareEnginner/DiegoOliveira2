@@ -9,9 +9,9 @@ Contate-me pelo WhatsApp.: 81 9.9994-3463
 
 ## Olá gente, sou o DIEGO OLIVEIRA, venho aqui criar Projetos em Programação!
 <div align="center">
-  <a href="https://github.com/DiegoSoftwareEnginnerOficial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegooliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegooliveira&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/DiegoOliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoSoftwareEnginner&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoSoftwareEnginner&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <a href="https://www.whatsapp.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
