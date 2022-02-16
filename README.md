@@ -7,7 +7,7 @@
 Contate-me pelo e-mail.: dhyeggo.oliveira.2015@gmail.com
 Contate-me pelo WhatsApp.: 81 9.9994-3463
 
-## Olá gente! Eu sou o DIEGO OLIVEIRA, Criador de Projetos em Programação!
+## Olá gente, sou o DIEGO OLIVEIRA, venho aqui criar Projetos em Programação!
 <div align="center">
   <a href="https://github.com/DiegoSoftwareEnginnerOficial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegooliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
